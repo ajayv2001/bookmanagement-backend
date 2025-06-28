@@ -9,7 +9,7 @@
 ### Live Links
 
 live link : https://bookmanagement-frontend-git-main-ajayv2001s-projects.vercel.app/<br/>
-frontend repo : https://github.com/ajayv2001/bookmanagement-frontend
+frontend repo : https://github.com/ajayv2001/bookmanagement-frontend<br/>
 backend repo : https://github.com/ajayv2001/bookmanagement-backend
 
 ## Features Implemented
