@@ -5,7 +5,7 @@ COPY . .
 RUN ./mvnw clean package -DskipTests
 
 
-FROM eclipse-temurin:17-jdk-jammy
+FROM eclipse-temurin:21-jdk
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE 8080
